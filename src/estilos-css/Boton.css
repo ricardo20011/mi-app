@@ -1,0 +1,19 @@
+.boton {
+  height: 50px;
+  display: flex;
+  flex: 1 1;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(59, 59, 59, 0.61);
+  border-radius: 8px;
+  color: white;
+  margin: 5px;
+  cursor: pointer;
+	user-select: none;
+}
+.boton:hover {
+  background-color: rgba(59, 59, 59, 0.863);
+}
+.operador {
+	background-color: rgba(43, 43, 43, 0.61);
+}

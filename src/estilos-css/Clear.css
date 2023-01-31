@@ -1,0 +1,17 @@
+.clear {
+    height: 50px;
+    width: 100%;
+    margin: 0 5px;
+    background-color: rgba(24, 24, 24, 0.61);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    user-select: none;
+    cursor: pointer;
+}
+.clear:hover {
+    background-color: rgba(24, 24, 24, 0.842);
+}
