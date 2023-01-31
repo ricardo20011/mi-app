@@ -10,6 +10,7 @@ function App() {
 
   const [input, setInput] = useState('');
 
+  
   const manejarClick = val => {
     setInput(input + val);
   }
