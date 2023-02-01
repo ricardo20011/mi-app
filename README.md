@@ -9,7 +9,7 @@ o cambiar de página.
 ---------------------------------------------------------------------------------------------
 
 Tegnologias utilizadas:
-HTML
-CSS
-JavaScript
-React
+- HTML
+- CSS
+- JavaScript
+- React
