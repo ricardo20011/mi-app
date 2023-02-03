@@ -13,4 +13,4 @@ Tegnologias utilizadas:
 - HTML
 - CSS
 - JavaScript
-- +Librerias
+- +Libreriass
